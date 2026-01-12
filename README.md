@@ -84,7 +84,7 @@ graph LR
 
 1. **Clone the Repository**
 ```bash
-git clone [https://github.com/imXur/Umbraزgit](https://github.com/imXur/Umbraزgit)
+git clone [https://github.com/imXur/Umbra.git](https://github.com/imXur/Umbra.git)
 cd Umbra-Project
 
 ```
